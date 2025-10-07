@@ -1,25 +1,23 @@
 <div align="center">
 
-<!-- Banner com título estilizado -->
+
 <h1 align="center">
-🌪️ Projeto <span style="color:#5AB9EA;">Vortex</span>
+ Projeto Vortex
 </h1>
 
 <p>
 Sistema de Cadastro, Login e Indicações
 </p>
 
-<!-- Badges -->
+
 <p>
-  <img src="https://img.shields.io/badge/status-finalizado-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-20.x-339933?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/SQLite-3.x-003B57?style=for-the-badge&logo=sqlite"/>
-  <img src="https://img.shields.io/badge/made%20with-love-ff69b4?style=for-the-badge"/>
+  
+  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
+ 
 </p>
 
-<!-- Banner visual (substitua pelo seu GIF/imagem se quiser) -->
-<img src="https://i.imgur.com/0kK6wOa.png" width="600" alt="Banner Vortex"/>
 
 </div>
 
@@ -27,9 +25,7 @@ Sistema de Cadastro, Login e Indicações
 
 ## 💡 Sobre o Projeto
 
-**Vortex** é uma aplicação web completa para **cadastro de usuários, login e sistema de indicações**, desenvolvida como parte do **Desafio Vortex**.
-
-O objetivo é oferecer uma **experiência intuitiva e gamificada**, com **pontuação baseada em indicações** — cada usuário pode indicar novos membros e acumular pontos, incentivando o engajamento e o compartilhamento.
+Este projeto é uma aplicação web de cadastro, login e sistema de indicação de usuários, desenvolvida como parte do desafio  técnico Vortex. O objetivo é proporcionar uma experiência completa de autenticação, validação de dados e gamificação por meio de um sistema de pontuação por indicações.
 
 ---
 
@@ -66,7 +62,7 @@ Construída com **HTML, CSS e JavaScript puro**.
 - **SQLite3** → Banco de dados leve e integrado  
 - **Nodemon** → Reinício automático em alterações  
 - **CORS** → Comunicação entre frontend e backend  
-- **Insomnia / Postman** → Testes de rotas da API  
+- **Insomnia** → Testes de rotas da API  
 
 ### 🎨 Frontend
 - **HTML** → Estrutura das páginas  
@@ -87,7 +83,6 @@ Instale:
 - Git
 
 Verifique:
-```bash
 node -v
 npm -v
 git --version
@@ -123,7 +118,7 @@ Acesse:
 Frontend:
 Abra index.html no navegador.
 
-API (via Insomnia/Postman):
+API (via Insomnia):
 
 http
 Copiar código
@@ -153,15 +148,17 @@ Acelerar o desenvolvimento e aprendizado
 Durante o desenvolvimento, consolidei conhecimentos em:
 
 
-Integração entre frontend e backend
+  Integração entre frontend e backend
 
-Manipulação de banco de dados SQLite
+  Manipulação de banco de dados SQLite
 
-Arquitetura RESTful e boas práticas
+  Boas práticas
+
 
 - O projeto fortaleceu minha base principalmente em Node.js e desenvolvimento web full stack.
 
-<div align="center">
-🌀 Feito com dedicação e sede de aprendizado por
-Daniela Aranha💻
-</div> ```
+
+🌀 Feito com dedicação e sede de aprendizado por:
+
+<h1 align="center"><strong>Daniela Aranha</strong>
+</h1> ```
