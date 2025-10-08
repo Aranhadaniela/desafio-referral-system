@@ -83,21 +83,24 @@ Instale:
 - npm (vem com o Node.js)
   
 - Git
-
+---
 Verifique:
 
 node -v
 npm -v
 git --version
+
 2️⃣ Clonar o Repositório
 bash
 Copiar código
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
+
 3️⃣ Instalar Dependências
 bash
 Copiar código
 npm install
+
 4️⃣ Configurar o Banco de Dados
 O projeto usa SQLite:
 
@@ -147,8 +150,8 @@ Resolver erros e aprimorar o raciocínio técnico
 Acelerar o desenvolvimento e aprendizado da parte de Back End
 
 
--Costumo utilizar a IA como se fosse um guia nos meus estudos,principalmente porque a maioria das coisas que aprendo é 
-por meio de pesquisas independentes,que são autodidatas.
+-Costumo utilizar a IA como se fosse um guia/professor nos meus estudos,principalmente porque a maioria das coisas que aprendi até o momento foram
+por meio de pesquisas autodidatas.
 
 📚 Aprendizados:
 Durante o desenvolvimento, consolidei conhecimentos em:
