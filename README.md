@@ -79,10 +79,13 @@ Construída com **HTML, CSS e JavaScript puro**.
 
 Instale:
 - [Node.js (LTS)](https://nodejs.org/)
+  
 - npm (vem com o Node.js)
+  
 - Git
 
 Verifique:
+
 node -v
 npm -v
 git --version
@@ -132,7 +135,8 @@ Endpoint	Método	Descrição
 /profile	GET	Retorna dados do perfil (JWT necessário)
 
 🤖 Colaboração com IA
-A IA foi usada como par de programação, auxiliando a:
+A IA foi usada como ferramenta de apoio, auxiliando a:
+Desenvolvimento do Back End
 
 Refatorar e otimizar o código
 
@@ -140,9 +144,11 @@ Sugerir boas práticas de organização
 
 Resolver erros e aprimorar o raciocínio técnico
 
-Acelerar o desenvolvimento e aprendizado
+Acelerar o desenvolvimento e aprendizado da parte de Back End
 
-💬 A IA foi uma ferramenta de apoio — o raciocínio, decisões e código final são autorais.
+
+-Costumo utilizar a IA como se fosse um guia nos meus estudos,principalmente porque a maioria das coisas que aprendo é 
+por meio de pesquisas independentes,que são autodidatas.
 
 📚 Aprendizados:
 Durante o desenvolvimento, consolidei conhecimentos em:
@@ -155,7 +161,7 @@ Durante o desenvolvimento, consolidei conhecimentos em:
   Boas práticas
 
 
-- O projeto fortaleceu minha base principalmente em Node.js e desenvolvimento web full stack.
+- O projeto fortaleceu minha base principalmente em Node.js e desenvolvimento web full stack,juntando o front-end,que é uma área que tenho mais familiaridade( até o momento) com o Back-End. A partir disso,consegui subir mais um degrau no meu caminho para me tornar uma des. full-stack😊
 
 
 🌀 Feito com dedicação e sede de aprendizado por:
